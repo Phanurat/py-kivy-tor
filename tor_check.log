@@ -67,3 +67,34 @@ Ping request could not find host http://34.60.28.119/. Please check the name and
 2025-06-17 14:26:03,862 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 13
 2025-06-17 14:26:03,863 - Connected via Tor: 45.141.215.88
 2025-06-17 14:26:03,864 - Using proactor: IocpProactor
+2025-06-17 14:39:43,957 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:39:45,058 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2807
+2025-06-17 14:39:45,061 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:39:46,305 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 14
+2025-06-17 14:39:47,206 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:62881
+ * Running on http://192.168.1.173:62881
+2025-06-17 14:39:47,206 - [33mPress CTRL+C to quit[0m
+2025-06-17 14:39:47,210 -  * Restarting with stat
+2025-06-17 14:39:48,239 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:39:50,226 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2806
+2025-06-17 14:39:50,229 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:39:51,860 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 14
+2025-06-17 14:39:51,883 -  * Debugger is active!
+2025-06-17 14:39:51,894 -  * Debugger PIN: 123-571-233
+2025-06-17 14:40:16,717 - Connected via Tor: 185.220.101.23
+2025-06-17 14:40:16,718 - Using proactor: IocpProactor
+2025-06-17 14:40:16,778 - Connected via Tor: 107.189.13.253
+2025-06-17 14:40:16,779 - Using proactor: IocpProactor
+2025-06-17 14:40:34,846 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:40:36,382 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2806
+2025-06-17 14:40:36,385 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:40:37,787 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 14
+2025-06-17 14:40:37,788 - Connected via Tor: 185.220.101.23
+2025-06-17 14:40:37,790 - Using proactor: IocpProactor
+2025-06-17 14:40:38,634 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.173:5000
+2025-06-17 14:40:38,634 - [33mPress CTRL+C to quit[0m
