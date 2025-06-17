@@ -1,0 +1,39 @@
+2025-06-17 13:20:23,748 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 13:20:25,228 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2805
+2025-06-17 13:20:25,230 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 13:20:26,721 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 12
+2025-06-17 13:20:26,722 - Connected via Tor: 94.72.103.33
+2025-06-17 13:22:01,036 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 13:22:02,129 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2808
+2025-06-17 13:22:02,132 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 13:22:03,087 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 14
+2025-06-17 13:22:03,088 - Connected via Tor: 192.42.116.179
+2025-06-17 13:24:36,541 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 13:24:37,690 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2808
+2025-06-17 13:24:37,692 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 13:24:38,675 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 14
+2025-06-17 13:24:38,676 - Connected via Tor: 192.42.116.179
+2025-06-17 13:27:50,866 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 13:27:52,272 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2808
+2025-06-17 13:27:52,274 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 13:27:53,342 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 14
+2025-06-17 13:27:53,343 - Connected via Tor: 192.42.116.179
+2025-06-17 13:28:04,975 - Ping www.google.com:
+
+Pinging www.google.com [2404:6800:4001:80b::2004] with 32 bytes of data:
+Reply from 2404:6800:4001:80b::2004: time=27ms 
+Reply from 2404:6800:4001:80b::2004: time=27ms 
+Reply from 2404:6800:4001:80b::2004: time=26ms 
+Reply from 2404:6800:4001:80b::2004: time=25ms 
+
+Ping statistics for 2404:6800:4001:80b::2004:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 25ms, Maximum = 27ms, Average = 26ms
+
+2025-06-17 13:32:55,712 - Ping http://34.60.28.119/apps:
+Ping request could not find host http://34.60.28.119/apps. Please check the name and try again.
+
+2025-06-17 13:33:00,015 - Ping http://34.60.28.119/:
+Ping request could not find host http://34.60.28.119/. Please check the name and try again.
+
