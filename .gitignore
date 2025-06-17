@@ -1,2 +1,4 @@
 tor/*
 hidden_server/*
+tor_check.log
+tor_vpn_tool.log
