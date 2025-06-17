@@ -37,3 +37,33 @@ Ping request could not find host http://34.60.28.119/apps. Please check the name
 2025-06-17 13:33:00,015 - Ping http://34.60.28.119/:
 Ping request could not find host http://34.60.28.119/. Please check the name and try again.
 
+2025-06-17 14:13:50,279 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:13:51,776 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2806
+2025-06-17 14:13:51,778 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:13:53,366 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 13
+2025-06-17 14:13:53,367 - Connected via Tor: 109.70.100.67
+2025-06-17 14:13:53,368 - Using proactor: IocpProactor
+2025-06-17 14:15:54,563 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:15:56,105 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2806
+2025-06-17 14:15:56,107 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:15:57,464 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 13
+2025-06-17 14:15:57,465 - Connected via Tor: 109.70.100.67
+2025-06-17 14:15:57,466 - Using proactor: IocpProactor
+2025-06-17 14:16:21,472 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:16:23,048 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2806
+2025-06-17 14:16:23,051 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:16:24,784 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 13
+2025-06-17 14:16:24,785 - Connected via Tor: 109.70.100.67
+2025-06-17 14:16:24,786 - Using proactor: IocpProactor
+2025-06-17 14:24:41,123 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:24:42,183 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 2803
+2025-06-17 14:24:42,185 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:24:43,373 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+2025-06-17 14:24:43,374 - Connected via Tor: 2.58.56.193
+2025-06-17 14:24:43,375 - Using proactor: IocpProactor
+2025-06-17 14:26:00,434 - Starting new HTTPS connection (1): check.torproject.org:443
+2025-06-17 14:26:01,929 - https://check.torproject.org:443 "GET / HTTP/1.1" 200 None
+2025-06-17 14:26:02,214 - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-17 14:26:03,862 - https://api.ipify.org:443 "GET / HTTP/1.1" 200 13
+2025-06-17 14:26:03,863 - Connected via Tor: 45.141.215.88
+2025-06-17 14:26:03,864 - Using proactor: IocpProactor
